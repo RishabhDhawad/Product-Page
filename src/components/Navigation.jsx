@@ -1,5 +1,5 @@
 const Navigation = () => {
-    return (
+  return (
     <nav className="container">
         <div className="logo">
           <img src="/images/brand_logo.png" alt="logo" />
@@ -14,7 +14,7 @@ const Navigation = () => {
 
         <button>Login</button>
     </nav>
-    );
+  );
 }
 
 export default Navigation;
