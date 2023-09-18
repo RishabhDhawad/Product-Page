@@ -1,8 +1,7 @@
-# React + Vite
+<p align="center"><img src="https://socialify.git.ci/RishabhDhawad/Product-Page/image?language=1&amp;name=1&amp;owner=1&amp;theme=Light" alt="project-image"></p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p id="description">Created a dynamic shoe front page using JavaScript allowing for interactive elements and real-time updates.</p>
 
-Currently, two official plugins are available:
+<h2>Project Screenshots:</h2>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<p align="center"><img src="public\images\screenshot.png" alt="project-image"></p>
